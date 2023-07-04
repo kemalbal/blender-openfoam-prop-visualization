@@ -14,7 +14,7 @@
 bl_info = {
     "name" : "Probe Vizualization",
     "author" : "Kemal BAL",
-    "description" : "kemalbal00@gmail.com",
+    "description" : "",
     "blender" : (2, 92, 0),
     "version" : (0, 0, 1),
     "location" : "",
